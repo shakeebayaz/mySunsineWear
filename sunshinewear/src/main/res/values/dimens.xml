@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="wear_text_size">39dp</dimen>
+    <dimen name="round_text_size">44dp</dimen>
+    <dimen name="small_text_size">11dp</dimen>
+    <dimen name="round_small_text">11dp</dimen>
+    <dimen name="medium_text">19dp</dimen>
+    <dimen name="round_medium_text_size">21dp</dimen>
+</resources>
